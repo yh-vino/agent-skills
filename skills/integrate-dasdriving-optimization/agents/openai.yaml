@@ -1,0 +1,4 @@
+interface:
+  display_name: "dasDriving 优化接入"
+  short_description: "指导开发、生成配方并验证 dasDriving 模型与后端优化接入"
+  default_prompt: "使用 $integrate-dasdriving-optimization 将当前模型优化接入 dasDriving，并完成配方生成与验证。"

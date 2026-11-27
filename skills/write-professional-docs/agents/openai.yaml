@@ -1,0 +1,4 @@
+interface:
+  display_name: "专业文档编写"
+  short_description: "编写并审校专业、准确、可发布且与代码一致的技术和产品文档"
+  default_prompt: "Use $write-professional-docs to review and refine this documentation for professional publication."
